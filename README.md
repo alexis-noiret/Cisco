@@ -1,15 +1,15 @@
-# Infrastructure Réseau Cisco (Packet Tracer)
+# 🌐 Infrastructure Réseau Cisco (Packet Tracer)
 
 ![Cisco](https://img.shields.io/badge/Network-Cisco-blue)
 ![Tool](https://img.shields.io/badge/Tool-Packet%20Tracer-orange)
 ![Domain](https://img.shields.io/badge/Domain-Network%20Engineering-red)
 ![Level](https://img.shields.io/badge/Level-Intermediate%2B-green)
 
-Conception et simulation d’une infrastructure réseau d’entreprise sous **Cisco Packet Tracer**, incluant configuration des équipements, segmentation réseau et validation de la connectivité.
+> Conception et simulation d’une infrastructure réseau d’entreprise sous **Cisco Packet Tracer**, incluant configuration des équipements, segmentation réseau et validation de la connectivité.
 
 ---
 
-## Résumé exécutif
+## 📋 Présentation
 
 Réalisation d’une topologie réseau simulée intégrant **routeurs, switchs et hôtes**, avec configuration des protocoles de base (adressage IP, routage, VLAN) et **tests de connectivité**.
 
@@ -17,7 +17,7 @@ Objectif : démontrer des compétences en **réseaux (niveau CCNA)**, **configur
 
 ---
 
-## Périmètre technique
+## 🧩 Périmètre technique
 
 * Outil : Cisco Packet Tracer
 * Équipements : Routeurs, Switchs, PCs
@@ -26,7 +26,7 @@ Objectif : démontrer des compétences en **réseaux (niveau CCNA)**, **configur
 
 ---
 
-## Réalisations clés
+## ✅ Réalisations clés
 
 * Conception d’une **topologie réseau complète**
 * Configuration des **interfaces réseau (IP, masque, gateway)**
@@ -37,7 +37,7 @@ Objectif : démontrer des compétences en **réseaux (niveau CCNA)**, **configur
 
 ---
 
-## Architecture réseau
+## 🏗️ Architecture réseau
 
 ```mermaid
 graph TD
@@ -49,7 +49,7 @@ graph TD
 
 ---
 
-## Exemples de configuration
+## 🔧 Exemples de configuration
 
 ### Configuration interface (routeur)
 
@@ -76,7 +76,7 @@ interface FastEthernet0/1
 
 ---
 
-## Tests et validation
+## 🧪 Tests et validation
 
 * Test de connectivité :
 
@@ -98,7 +98,7 @@ show vlan brief
 
 ---
 
-## Compétences démontrées
+## 🧠 Compétences démontrées
 
 * Réseaux (niveau CCNA)
 * Configuration équipements Cisco
@@ -109,7 +109,7 @@ show vlan brief
 
 ---
 
-## Limites
+## ⚠️ Limites
 
 * Environnement simulé (Packet Tracer)
 * Pas de matériel réel
@@ -117,7 +117,7 @@ show vlan brief
 
 ---
 
-## Perspectives d’amélioration
+## 🔭 Perspectives d’amélioration
 
 * Implémentation d’ACL (filtrage réseau)
 * Mise en place de routage dynamique (OSPF, RIP)
@@ -127,7 +127,7 @@ show vlan brief
 
 ---
 
-## Valeur professionnelle
+## 💼 Valeur professionnelle
 
 Ce projet démontre la capacité à :
 
@@ -138,7 +138,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Structure
+## 📁 Structure du dépôt
 
 ```text
 .
@@ -148,7 +148,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Documentation
+## 📖 Documentation
 
 Le fichier PDF contient :
 
@@ -158,7 +158,9 @@ Le fichier PDF contient :
 
 ---
 
-## Auteur
+## 👤 Auteur
 
-Alexis Noiret
-Étudiant en cybersécurité
+**Alexis Noiret** — Bachelor IT Cybersécurité, La Plateforme
+
+- Portfolio : [alexis-noiret.students-laplateforme.io](https://alexis-noiret.students-laplateforme.io)
+- GitHub : [github.com/alexis-noiret](https://github.com/alexis-noiret)
